@@ -1,11 +1,11 @@
 # DataEngineering-project2-YouTube-analysis
 
 Data Ingestion — Build a mechanism to ingest data from different sources<br>
-ETL System — We are getting data in raw format, transforming this data into the proper format
-Data lake — We will be getting data from multiple sources so we need centralized repo to store them
-Scalability — As the size of our data increases, we need to make sure our system scales with it
-Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
-Reporting — Build a dashboard to get answers to the question we asked earlier
+ETL System — We are getting data in raw format, transforming this data into the proper format<br>
+Data lake — We will be getting data from multiple sources so we need centralized repo to store them<br>
+Scalability — As the size of our data increases, we need to make sure our system scales with it<br>
+Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS<br>
+Reporting — Build a dashboard to get answers to the question we asked earlier<br>
 Services we will be using
 
 **Services**
